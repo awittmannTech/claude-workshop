@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "software-factory",
+  "description": "Autonomous SaaS builder — from market research to working, tested code",
+  "owner": {
+    "name": "Andrew",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "software-factory",
+      "description": "Autonomous SaaS builder plugin with 14 agents and Ralph Loop integration",
+      "version": "1.0.0",
+      "author": {
+        "name": "Andrew"
+      },
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/placeholder/software-factory"
+    }
+  ]
+}
