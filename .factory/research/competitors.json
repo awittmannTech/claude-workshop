@@ -1,0 +1,530 @@
+{
+  "market": {
+    "category": "Task Management / To-Do List Software",
+    "size": "USD 4.11 billion (2024), projected USD 11.48 billion by 2033",
+    "todoAppSubmarket": "USD 1.43 billion (2025), projected USD 3.66 billion by 2035",
+    "growth": "CAGR 13.68% (2025-2033) for task management; CAGR 10.39% for to-do list apps",
+    "trend": "AI-driven task prioritization, cross-platform sync, hybrid work collaboration, subscription fatigue pushing one-time purchase models",
+    "regionalShare": {
+      "northAmerica": "34-42%",
+      "europe": "26%",
+      "asiaPacific": "30%",
+      "middleEastAfrica": "10%"
+    },
+    "keyDrivers": [
+      "78% smartphone penetration",
+      "64% productivity app adoption rate",
+      "55% demand for automated reminders",
+      "39% enterprise AI-driven task management adoption",
+      "70% mobile usage preference"
+    ],
+    "sourceUrls": [
+      "https://www.fortunebusinessinsights.com/task-management-software-market-102249",
+      "https://www.mordorintelligence.com/industry-reports/task-management-software-market",
+      "https://www.businessresearchinsights.com/market-reports/to-do-list-apps-market-117863",
+      "https://www.breeze.pm/blog/task-management-statistics"
+    ]
+  },
+  "competitors": [
+    {
+      "name": "Todoist",
+      "url": "https://todoist.com",
+      "tagline": "The to do list to organize work and life",
+      "userBase": "30-50 million users worldwide",
+      "estimatedRevenue": "$20-25M ARR",
+      "ratings": {
+        "g2": "4.5/5 (816 reviews)",
+        "capterra": "4.6/5"
+      },
+      "features": [
+        "Natural language task input",
+        "Projects and sub-projects",
+        "Labels and filters",
+        "Priority levels (P1-P4)",
+        "Recurring due dates",
+        "Comments and file attachments",
+        "Task reminders (Pro)",
+        "Calendar view (Pro)",
+        "AI task breakdown and suggestions",
+        "Ramble - voice-to-task in 40 languages",
+        "Cross-platform (web, desktop, mobile, browser extensions)",
+        "Google Calendar 2-way sync",
+        "80+ integrations",
+        "Collaboration and task assignment",
+        "Activity history and productivity tracking",
+        "Templates"
+      ],
+      "pricing": {
+        "model": "Freemium with per-user monthly subscription",
+        "tiers": [
+          {
+            "name": "Beginner (Free)",
+            "price": "$0",
+            "features": [
+              "5 active personal projects",
+              "5 collaborators per project",
+              "5MB file uploads",
+              "3 custom filters",
+              "1 week activity history"
+            ]
+          },
+          {
+            "name": "Pro",
+            "price": "$4/month (annual) or $5/month (monthly)",
+            "features": [
+              "300 active projects",
+              "25 collaborators per project",
+              "100MB file uploads",
+              "150 custom filters",
+              "Reminders",
+              "Calendar view",
+              "Automatic backups",
+              "AI features"
+            ]
+          },
+          {
+            "name": "Business",
+            "price": "$6/month/user (annual) or $8/month/user (monthly) - increasing to $8-10 after Dec 2025",
+            "features": [
+              "Everything in Pro",
+              "Shared team workspaces",
+              "Admin and member roles",
+              "Team billing",
+              "Priority support"
+            ]
+          }
+        ]
+      },
+      "targetAudience": "Individuals and small teams wanting a balance of simplicity and power",
+      "strengths": [
+        "Best-in-class natural language input",
+        "Clean, intuitive UI across all platforms",
+        "Extensive integration ecosystem (80+)",
+        "Strong AI features (task breakdown, Ramble voice input)",
+        "Excellent cross-platform support",
+        "Mature product with long track record"
+      ],
+      "weaknesses": [
+        "No built-in calendar view on free plan",
+        "Reminders gated behind paywall",
+        "Google Calendar 2-way sync unreliable",
+        "Overdue items clutter the Today view",
+        "Cannot set multiple reminders per task",
+        "Limited design personalization / no custom backgrounds",
+        "Free plan is quite restrictive (5 projects, 3 filters)",
+        "Recent price increases on Business plan"
+      ],
+      "sourceUrls": [
+        "https://www.todoist.com/pricing",
+        "https://zapier.com/blog/best-todo-list-apps/",
+        "https://www.capterra.com/p/149339/Todoist-for-Business/reviews/",
+        "https://www.morgen.so/blog-posts/ticktick-vs-todoist",
+        "https://www.g2.com/products/todoist/reviews",
+        "https://rambox.app/blog/ticktick-vs-todoist/",
+        "https://get-alfred.ai/blog/todoist-pricing"
+      ]
+    },
+    {
+      "name": "TickTick",
+      "url": "https://ticktick.com",
+      "tagline": "A powerful to-do & task management app",
+      "userBase": "50M+ downloads across platforms",
+      "ratings": {
+        "g2": "4.5/5 (109 reviews)",
+        "googlePlay": "4.7/5 (153K+ reviews)",
+        "appStore": "4.8/5"
+      },
+      "features": [
+        "Task lists and smart lists",
+        "Built-in calendar views (multiple: day, week, month)",
+        "Built-in Pomodoro timer",
+        "Habit tracker",
+        "Eisenhower Matrix view",
+        "Natural language input",
+        "Subtasks and checklists",
+        "Tags and priorities",
+        "Recurring tasks",
+        "Reminders",
+        "White noise / focus sounds",
+        "Task duration tracking",
+        "Themes and customization",
+        "Cross-platform (web, desktop, mobile)",
+        "Calendar subscriptions",
+        "Statistics and analytics"
+      ],
+      "pricing": {
+        "model": "Freemium with flat annual/monthly subscription",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "$0",
+            "features": [
+              "Up to 9 lists",
+              "99 tasks per list",
+              "1 attachment per day",
+              "Basic calendar view",
+              "Basic reminders",
+              "2 Pomodoro timers per day"
+            ]
+          },
+          {
+            "name": "Premium",
+            "price": "$35.99/year ($3/month) or $3.99/month",
+            "features": [
+              "299 lists",
+              "999 tasks per list",
+              "Unlimited attachments",
+              "Full calendar views",
+              "Custom smart lists",
+              "Historical statistics",
+              "Unlimited habits",
+              "Multiple calendar subscriptions",
+              "Task duration",
+              "More themes"
+            ]
+          }
+        ]
+      },
+      "targetAudience": "Feature-hungry productivity enthusiasts wanting an all-in-one personal productivity tool",
+      "strengths": [
+        "Most features per dollar - significantly cheaper than Todoist",
+        "Built-in Pomodoro timer and habit tracker (unique combination)",
+        "Excellent calendar integration built into the app",
+        "Eisenhower Matrix for prioritization",
+        "Very generous free tier",
+        "High app store ratings",
+        "Good customization with themes"
+      ],
+      "weaknesses": [
+        "Can feel cluttered due to feature density",
+        "Task ordering/sorting bugs reported",
+        "Task filters gated behind premium",
+        "Simpler folder/list model without deep nesting or subprojects",
+        "Reports of unwanted automatic premium charges",
+        "Collaboration features less developed than Todoist",
+        "Smaller integration ecosystem"
+      ],
+      "sourceUrls": [
+        "https://ticktick.com/upgrade?language=en_us",
+        "https://zapier.com/blog/best-todo-list-apps/",
+        "https://www.morgen.so/blog-posts/ticktick-vs-todoist",
+        "https://rambox.app/blog/ticktick-vs-todoist/",
+        "https://www.g2.com/products/ticktick/reviews",
+        "https://www.capterra.com/p/170641/TickTick/"
+      ]
+    },
+    {
+      "name": "Microsoft To Do",
+      "url": "https://todo.microsoft.com",
+      "tagline": "Stay organized and manage your day-to-day tasks",
+      "userBase": "Bundled with Microsoft 365 (400M+ paid seats)",
+      "ratings": {
+        "appStore": "4.7/5",
+        "googlePlay": "4.5/5"
+      },
+      "features": [
+        "My Day daily planning view",
+        "Smart suggestions",
+        "Task lists and groups",
+        "Due dates and reminders",
+        "Recurring tasks",
+        "File attachments",
+        "Notes on tasks",
+        "Steps (subtasks)",
+        "Flagged email integration (Outlook)",
+        "Microsoft 365 ecosystem integration",
+        "Cross-platform (web, Windows, iOS, Android)",
+        "Shared lists",
+        "Assigned tasks in shared lists"
+      ],
+      "pricing": {
+        "model": "Completely free (included with Microsoft account)",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "$0",
+            "features": [
+              "All features included",
+              "No premium tier",
+              "Deep Microsoft 365 integration",
+              "Unlimited lists and tasks"
+            ]
+          }
+        ]
+      },
+      "targetAudience": "Microsoft ecosystem users, Outlook-heavy professionals, users wanting a free full-featured option",
+      "strengths": [
+        "Completely free with no paywalled features",
+        "Deep Outlook and Microsoft 365 integration",
+        "Flagged emails automatically become tasks",
+        "Clean, friendly My Day interface",
+        "Good for basic personal task management",
+        "No vendor lock-in concerns for existing MS users"
+      ],
+      "weaknesses": [
+        "Serious data loss / task disappearance bugs reported",
+        "Synchronization failures across devices",
+        "No priority system built in",
+        "No labels or tags",
+        "No calendar view",
+        "No integrations outside Microsoft ecosystem",
+        "Limited organization (no project-level views)",
+        "No Kanban or Gantt views",
+        "No location-based reminders",
+        "Slow feature development"
+      ],
+      "sourceUrls": [
+        "https://toolfinder.com/comparisons/todoist-vs-microsoft-todo",
+        "https://zapier.com/blog/best-todo-list-apps/",
+        "https://techcommunity.microsoft.com/discussions/to-do/todo-could-be-much-more---bugs--basic-features-missing/2149615",
+        "https://learn.microsoft.com/en-us/answers/questions/4714137/three-super-annoying-issues-to-bring-into-2025",
+        "https://thedigitalprojectmanager.com/tools/google-tasks-review/"
+      ]
+    },
+    {
+      "name": "Any.do",
+      "url": "https://www.any.do",
+      "tagline": "A simple to do list for you and your team",
+      "userBase": "40M+ downloads",
+      "ratings": {
+        "saasworthy": "4.3/5 (437 ratings)",
+        "appStore": "4.7/5"
+      },
+      "features": [
+        "Tasks and subtasks",
+        "Daily planner",
+        "Calendar sync",
+        "Reminders",
+        "Recurring tasks",
+        "Location-based reminders (Premium)",
+        "Shared lists and task assignment",
+        "Custom themes (Premium)",
+        "Boards view",
+        "Integrations (Slack, WhatsApp, Zapier)",
+        "Cross-platform (web, iOS, Android)",
+        "Focus mode"
+      ],
+      "pricing": {
+        "model": "Freemium with per-user monthly subscription",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "$0",
+            "features": [
+              "Basic tasks and reminders",
+              "Daily planner",
+              "Calendar sync",
+              "Limited collaboration"
+            ]
+          },
+          {
+            "name": "Premium",
+            "price": "$4.99/month (annual) or $7.99/month (monthly)",
+            "features": [
+              "Recurring reminders",
+              "Location-based alerts",
+              "Custom themes",
+              "Shared lists and task assignment",
+              "Color tags"
+            ]
+          },
+          {
+            "name": "Teams",
+            "price": "Custom pricing",
+            "features": [
+              "Everything in Premium",
+              "Admin roles",
+              "Team billing",
+              "Shared workspaces",
+              "Unlimited tasks and boards",
+              "Priority support"
+            ]
+          }
+        ]
+      },
+      "targetAudience": "Mobile-first users wanting a simple, clean task manager with team features",
+      "strengths": [
+        "Clean, intuitive mobile interface",
+        "Location-based reminders",
+        "Good daily planner / calendar integration",
+        "WhatsApp integration (unique)",
+        "Simple onboarding experience"
+      ],
+      "weaknesses": [
+        "Features limited compared to Todoist and TickTick",
+        "Many basic features gated behind premium (recurring reminders, themes)",
+        "Lower review scores than top competitors",
+        "Fewer integrations than Todoist",
+        "Less active development / slower feature releases",
+        "No built-in Pomodoro or habit tracking"
+      ],
+      "sourceUrls": [
+        "https://www.any.do/pricing",
+        "https://www.getapp.com/collaboration-software/a/any-do/",
+        "https://work-management.org/to-do-list/any-do-review/",
+        "https://thedigitalprojectmanager.com/tools/anydo-pricing/"
+      ]
+    },
+    {
+      "name": "Things 3",
+      "url": "https://culturedcode.com/things/",
+      "tagline": "The award-winning personal task manager",
+      "userBase": "Not publicly disclosed (Apple-only niche)",
+      "ratings": {
+        "appStore": "4.8/5",
+        "g2": "4.4/5"
+      },
+      "features": [
+        "Projects and areas",
+        "Headings for task grouping",
+        "Tags",
+        "Start dates and deadlines",
+        "Repeating to-dos",
+        "Checklists within tasks",
+        "Quick entry with keyboard shortcuts",
+        "Today / Upcoming / Anytime / Someday views",
+        "Things Cloud Sync",
+        "Widgets (iPhone, iPad, Mac)",
+        "Apple Watch support",
+        "Apple Vision Pro support",
+        "Markdown notes",
+        "URL scheme for automation"
+      ],
+      "pricing": {
+        "model": "One-time purchase per platform (no subscription)",
+        "tiers": [
+          {
+            "name": "Mac",
+            "price": "$49.99 (one-time)",
+            "features": ["Full feature set on macOS"]
+          },
+          {
+            "name": "iPad",
+            "price": "$19.99 (one-time)",
+            "features": ["Full feature set on iPadOS"]
+          },
+          {
+            "name": "iPhone + Apple Watch",
+            "price": "$9.99 (one-time)",
+            "features": ["Full feature set on iOS and watchOS"]
+          }
+        ]
+      },
+      "targetAudience": "Apple ecosystem power users who value design, simplicity, and one-time purchase",
+      "strengths": [
+        "Beautiful, award-winning design",
+        "One-time purchase - no subscription",
+        "All features available at purchase (no paywall)",
+        "Extremely fast and native Apple performance",
+        "GTD methodology support",
+        "Quick Entry is best-in-class on Mac",
+        "No feature bloat - focused and opinionated"
+      ],
+      "weaknesses": [
+        "Apple-only: no Windows, no Android, no web app",
+        "No collaboration features whatsoever",
+        "No built-in calendar view",
+        "Limited customization (no themes, color changes)",
+        "No third-party integrations",
+        "Must purchase separately for each platform ($79.97 total)",
+        "No reporting or analytics",
+        "Infrequent major updates"
+      ],
+      "sourceUrls": [
+        "https://culturedcode.com/things/pricing/",
+        "https://thedigitalprojectmanager.com/tools/things-3-review/",
+        "https://toolguide.io/en/tool/things-3/",
+        "https://www.techradar.com/reviews/things-3"
+      ]
+    },
+    {
+      "name": "Google Tasks",
+      "url": "https://tasks.google.com",
+      "tagline": "Get more done with Google Tasks",
+      "userBase": "Bundled with Google Workspace (3B+ Gmail users)",
+      "ratings": {
+        "productHunt": "3.5/5",
+        "trustRadius": "7.5/10"
+      },
+      "features": [
+        "Simple task lists",
+        "Due dates",
+        "Subtasks",
+        "Gmail integration (email to task)",
+        "Google Calendar integration",
+        "Cross-platform (web sidebar, Android, iOS)",
+        "Drag and drop reordering",
+        "Star / important marking"
+      ],
+      "pricing": {
+        "model": "Completely free (included with Google account)",
+        "tiers": [
+          {
+            "name": "Free",
+            "price": "$0",
+            "features": [
+              "All features included",
+              "No premium tier"
+            ]
+          }
+        ]
+      },
+      "targetAudience": "Google ecosystem users needing basic, no-frills task capture",
+      "strengths": [
+        "Completely free",
+        "Deeply integrated with Gmail and Google Calendar",
+        "Extremely simple and fast",
+        "No learning curve",
+        "Available everywhere via Google ecosystem"
+      ],
+      "weaknesses": [
+        "Very basic feature set - no labels, priorities, or advanced views",
+        "No collaboration or task sharing",
+        "No time-based deadlines (date only)",
+        "No third-party integrations",
+        "No customization whatsoever",
+        "No natural language input",
+        "No Kanban, timeline, or alternate views",
+        "Performance degrades with many tasks",
+        "Cannot set reminders tied to deadlines"
+      ],
+      "sourceUrls": [
+        "https://thedigitalprojectmanager.com/tools/google-tasks-review/",
+        "https://www.androidcentral.com/apps-software/google-tasks-rolls-out-its-long-overdue-deadline-feature-but-its-still-half-baked",
+        "https://www.kanbanchi.com/faqwd/google-tasks-alternative",
+        "https://www.techradar.com/reviews/google-tasks"
+      ]
+    }
+  ],
+  "pricingInsights": {
+    "ranges": {
+      "free": "Google Tasks, Microsoft To Do (fully free); Todoist, TickTick, Any.do (freemium with limited free tiers)",
+      "low": "$3-5/month (TickTick Premium at $3/mo annual, Todoist Pro at $4/mo annual)",
+      "mid": "$5-8/month (Any.do Premium at $4.99/mo annual, Todoist Business at $6-8/mo)",
+      "oneTimePurchase": "$9.99-$49.99 per platform (Things 3)"
+    },
+    "commonModel": "Freemium SaaS with annual subscription discount (typically 20-40% off monthly price)",
+    "featuresGatedBehindPaywall": [
+      "Reminders and recurring reminders",
+      "Calendar views",
+      "Custom filters and smart lists",
+      "Themes and customization",
+      "File attachment limits",
+      "Project/list count limits",
+      "Advanced collaboration",
+      "Location-based reminders",
+      "Statistics and analytics",
+      "Task duration tracking"
+    ],
+    "subscriptionFatigue": "Significant user sentiment against subscription models for simple tools. Users increasingly prefer one-time purchases or generous free tiers. Over 60% of consumers report being more selective about subscriptions.",
+    "recommendation": "For a solo-dev SaaS: offer a generous free tier (more generous than Todoist, comparable to TickTick) with a single affordable premium tier at $3-4/month (annual) or $5/month (monthly). Consider a lifetime deal option to address subscription fatigue. Gate power features (AI, advanced views, integrations) not basic functionality (reminders, themes).",
+    "sourceUrls": [
+      "https://www.todoist.com/pricing",
+      "https://ticktick.com/upgrade?language=en_us",
+      "https://www.any.do/pricing",
+      "https://culturedcode.com/things/pricing/",
+      "https://hulry.com/app-subscription-fatigue/",
+      "https://www.influencers-time.com/subscription-fatigue-in-2025-why-one-time-purchases-are-rising/"
+    ]
+  }
+}

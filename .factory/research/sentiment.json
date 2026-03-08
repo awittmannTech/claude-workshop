@@ -1,0 +1,219 @@
+{
+  "userComplaints": [
+    {
+      "complaint": "Subscription fatigue - users resent paying monthly for a simple task list",
+      "frequency": "high",
+      "detail": "Users question paying $4-8/month for an app to check off grocery lists. Over 60% of consumers report being more selective about subscriptions. Significant interest in one-time purchase alternatives like Things 3 or open-source options. Users frustrated by price hikes (Todoist Business plan increases in Dec 2025).",
+      "platforms": ["Reddit", "MetaFilter", "Product Hunt", "Trustpilot"],
+      "sourceUrls": [
+        "https://hulry.com/app-subscription-fatigue/",
+        "https://www.producthunt.com/ask/10910-best-to-do-app-that-doesn-t-have-a-subscription-model",
+        "https://ask.metafilter.com/203774/ToDo-App-Happy-to-pay-but-not-to-subscribe",
+        "https://www.influencers-time.com/subscription-fatigue-in-2025-why-one-time-purchases-are-rising/"
+      ]
+    },
+    {
+      "complaint": "Feature bloat and complexity - apps try to do too much and become overwhelming",
+      "frequency": "high",
+      "detail": "Users describe TickTick as having 'too many features that were just distracting side quests.' Notion users report 20+ hours learning the tool and still being confused. A viral Hacker News post ('I tried every todo app and ended up with a .txt file') captures the sentiment that productivity apps add friction rather than reducing it. Users want simplicity but apps keep adding features to justify subscriptions.",
+      "platforms": ["Hacker News", "Reddit", "Medium", "Lobsters"],
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=44864134",
+        "https://www.al3rez.com/todo-txt-journey",
+        "https://medium.com/@devgrowth/notion-as-a-todo-app-how-my-hopes-for-knowledge-system-task-management-in-one-place-were-crushed-aaddfb884efc",
+        "https://rambox.app/blog/ticktick-vs-todoist/"
+      ]
+    },
+    {
+      "complaint": "Essential features paywalled - reminders, calendar views, and basic filters locked behind premium",
+      "frequency": "high",
+      "detail": "Todoist gates reminders (a basic feature) behind its Pro plan. Calendar view requires paid subscription. Free plans limited to as few as 5 projects (Todoist) or 9 lists (TickTick). Any.do locks recurring reminders behind premium. Users feel nickel-and-dimed for features that should be standard.",
+      "platforms": ["Reddit", "Trustpilot", "G2", "Capterra"],
+      "sourceUrls": [
+        "https://www.todoist.com/pricing",
+        "https://baizaar.tools/todoist-pro-vs-free-2025/",
+        "https://www.capterra.com/p/149339/Todoist-for-Business/reviews/",
+        "https://work-management.org/to-do-list/any-do-review/"
+      ]
+    },
+    {
+      "complaint": "Data loss and sync failures - tasks disappearing or failing to sync across devices",
+      "frequency": "medium",
+      "detail": "Microsoft To Do users report 200+ tasks disappearing after updates, lists reverting to previous states, and 75% of tasks vanishing after screen flashes. Todoist users report Google Calendar 2-way sync not keeping up when tasks are shuffled frequently. Sync reliability is a fundamental trust issue for a task manager.",
+      "platforms": ["Microsoft Community Hub", "Microsoft Q&A", "Reddit", "Trustpilot"],
+      "sourceUrls": [
+        "https://techcommunity.microsoft.com/discussions/to-do/todo-could-be-much-more---bugs--basic-features-missing/2149615",
+        "https://learn.microsoft.com/en-us/answers/questions/5538899/all-tasks-(to-do)-at-a-certain-point-are-gone-sinc",
+        "https://learn.microsoft.com/en-us/answers/questions/5489183/my-tasks-that-i-entered-into-the-to-do-app-dissape",
+        "https://learn.microsoft.com/en-us/answers/questions/4714137/three-super-annoying-issues-to-bring-into-2025"
+      ]
+    },
+    {
+      "complaint": "Poor calendar integration - most todo apps treat calendar as an afterthought",
+      "frequency": "medium",
+      "detail": "Todoist lacks a built-in calendar view despite years of requests; relies on external Google Calendar sync that has delays. Google Tasks only supports date-based deadlines, not time-based. Users want tasks and calendar events unified in one view. Many apps bolt on calendar views as an afterthought rather than building timelines into core architecture.",
+      "platforms": ["Reddit", "G2", "Product Hunt", "App reviews"],
+      "sourceUrls": [
+        "https://rambox.app/blog/ticktick-vs-todoist/",
+        "https://www.androidcentral.com/apps-software/google-tasks-rolls-out-its-long-overdue-deadline-feature-but-its-still-half-baked",
+        "https://fhynix.com/best-todo-app-with-tasks-and-calendar/",
+        "https://www.morgen.so/blog-posts/ticktick-vs-todoist"
+      ]
+    },
+    {
+      "complaint": "Platform lock-in - major apps force you into specific ecosystems",
+      "frequency": "medium",
+      "detail": "Things 3 is Apple-only with no web app, Windows, or Android support. Microsoft To Do integrates deeply with Outlook but has no third-party integrations. Google Tasks only works within Google ecosystem. Users who switch platforms lose access to their task management system entirely.",
+      "platforms": ["Reddit", "Tech review sites", "Hacker News"],
+      "sourceUrls": [
+        "https://thedigitalprojectmanager.com/tools/things-3-review/",
+        "https://thedigitalprojectmanager.com/tools/google-tasks-review/",
+        "https://www.kanbanchi.com/faqwd/google-tasks-alternative"
+      ]
+    },
+    {
+      "complaint": "Overdue task management - cluttered views and poor handling of missed deadlines",
+      "frequency": "medium",
+      "detail": "Todoist bumps overdue items to top of Today list, cluttering the daily view. Users report 'an ever-increasing list of overdue tasks.' No app handles the psychological burden of overdue tasks well - they create anxiety rather than helping users reschedule or reprioritize gracefully.",
+      "platforms": ["Reddit", "Capterra", "Trustpilot"],
+      "sourceUrls": [
+        "https://rambox.app/blog/ticktick-vs-todoist/",
+        "https://www.trustpilot.com/review/todoist.com",
+        "https://www.capterra.com/p/149339/Todoist-for-Business/reviews/"
+      ]
+    },
+    {
+      "complaint": "Lack of privacy and data ownership - users want control over their data",
+      "frequency": "medium",
+      "detail": "Users are switching to open-source alternatives (Vikunja, Super Productivity, todo.txt) for privacy. Todoist users report unstoppable spam emails. 42% of users have data privacy concerns with productivity apps. EU Data Act (Sept 2025) highlights growing regulatory and consumer focus on data portability.",
+      "platforms": ["Reddit", "Hacker News", "XDA Developers"],
+      "sourceUrls": [
+        "https://www.xda-developers.com/i-ditched-todoist-for-this-open-source-productivity-app/",
+        "https://www.trustpilot.com/review/todoist.com",
+        "https://appflowy.com/blog/Vendor-Lock-In-Risk-Mitigation-with-Open-Source-Tools",
+        "https://super-productivity.com/blog/open-source-productivity-apps-comparison/"
+      ]
+    },
+    {
+      "complaint": "No built-in time tracking or Pomodoro without extra apps",
+      "frequency": "low",
+      "detail": "Only TickTick offers a built-in Pomodoro timer among major competitors. Users who want to track time spent on tasks must use separate apps. Super Productivity (open-source) addresses this with integrated time tracking. Users want to know how long tasks actually take, not just check them off.",
+      "platforms": ["Reddit", "Product Hunt", "G2"],
+      "sourceUrls": [
+        "https://www.morgen.so/blog-posts/ticktick-vs-todoist",
+        "https://github.com/super-productivity/super-productivity",
+        "https://super-productivity.com/blog/open-source-productivity-apps-comparison/"
+      ]
+    },
+    {
+      "complaint": "Poor collaboration in personal todo apps - either too basic or forced into project management tools",
+      "frequency": "low",
+      "detail": "Things 3 has zero collaboration features. Google Tasks cannot share or assign tasks. When users need to share a grocery list or household chores, they either use an app with no collaboration or are pushed to complex project management tools like Asana or ClickUp that are overkill for personal sharing.",
+      "platforms": ["Reddit", "App review sites"],
+      "sourceUrls": [
+        "https://thedigitalprojectmanager.com/tools/things-3-review/",
+        "https://thedigitalprojectmanager.com/tools/google-tasks-review/",
+        "https://akiflow.com/blog/google-tasks-vs-any-do"
+      ]
+    }
+  ],
+  "featureGaps": [
+    {
+      "gap": "No app balances simplicity with power without forcing a paywall",
+      "evidence": "The 'txt file' phenomenon shows users abandoning complex apps. But simple free apps (Google Tasks, MS To Do) lack essential features. There is no app that is both genuinely simple AND feature-complete at a free or affordable tier. Todoist's free plan is too restrictive; TickTick's free plan is better but still limits filtering.",
+      "opportunity": "Build a todo app that is fast and minimal by default but has progressive disclosure of power features. Offer a generous free tier with reminders, reasonable project limits, and basic views included. Premium should unlock genuinely advanced features, not basics.",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=44864134",
+        "https://www.al3rez.com/todo-txt-journey",
+        "https://zapier.com/blog/best-todo-list-apps/"
+      ]
+    },
+    {
+      "gap": "First-class calendar + task unified view",
+      "evidence": "Multiple review sites note that 'many popular todo list apps bolt on calendar views as an afterthought.' Todoist has no built-in calendar (requires Google Calendar sync). Google Tasks only supports date-based deadlines. TickTick is the only major app with good built-in calendar, but its UI is cluttered.",
+      "opportunity": "Build calendar as a first-class citizen alongside the task list. Show tasks on a timeline view natively. Allow time-blocking tasks onto a calendar without external sync. This is the #1 integration users request.",
+      "sourceUrls": [
+        "https://fhynix.com/best-todo-app-with-tasks-and-calendar/",
+        "https://www.morgen.so/blog-posts/ticktick-vs-todoist",
+        "https://rambox.app/blog/ticktick-vs-todoist/"
+      ]
+    },
+    {
+      "gap": "Graceful overdue task handling",
+      "evidence": "Todoist users complain that overdue items clutter the Today view. Users report 'ever-increasing lists of overdue tasks' creating anxiety. No major app offers smart rescheduling, forgiveness mechanisms, or overdue task triage workflows.",
+      "opportunity": "Build an 'overdue triage' feature: when tasks pile up, offer a dedicated review mode to reschedule, delegate, or drop tasks. Avoid guilt-inducing overdue counts. Frame missed deadlines as rescheduling opportunities, not failures.",
+      "sourceUrls": [
+        "https://rambox.app/blog/ticktick-vs-todoist/",
+        "https://www.trustpilot.com/review/todoist.com"
+      ]
+    },
+    {
+      "gap": "Cross-platform web app with no ecosystem lock-in",
+      "evidence": "Things 3 is Apple-only ($80 total). Microsoft To Do is tied to Microsoft ecosystem. Google Tasks is tied to Google. There is no premium-quality, design-forward todo app that is fully cross-platform via web with no ecosystem dependency.",
+      "opportunity": "Build a beautiful web-first app that works on any device with a browser. No platform lock-in. Progressive Web App (PWA) for mobile. This immediately addresses Things 3 users who want that quality on non-Apple devices and users who refuse ecosystem lock-in.",
+      "sourceUrls": [
+        "https://thedigitalprojectmanager.com/tools/things-3-review/",
+        "https://www.kanbanchi.com/faqwd/google-tasks-alternative",
+        "https://thedigitalprojectmanager.com/tools/google-tasks-review/"
+      ]
+    },
+    {
+      "gap": "Transparent, fair pricing without paywalling basics",
+      "evidence": "Users on MetaFilter, Product Hunt, and Reddit express frustration at paying subscriptions for basic features. Todoist gates reminders behind Pro. Any.do locks recurring reminders behind premium. Subscription fatigue is a documented market trend (60%+ consumers cutting subscriptions).",
+      "opportunity": "Offer a pricing model that includes all core features for free (reminders, reasonable limits, themes). Gate genuinely premium features like AI, advanced analytics, team workspaces. Consider lifetime deal or very low pricing ($2-3/month) to undercut competitors while building trust.",
+      "sourceUrls": [
+        "https://www.producthunt.com/ask/10910-best-to-do-app-that-doesn-t-have-a-subscription-model",
+        "https://ask.metafilter.com/203774/ToDo-App-Happy-to-pay-but-not-to-subscribe",
+        "https://hulry.com/app-subscription-fatigue/"
+      ]
+    },
+    {
+      "gap": "Data ownership and portability",
+      "evidence": "Growing open-source movement (Vikunja, Super Productivity, todo.txt). EU Data Act (Sept 2025) mandates data portability. Users switching to self-hosted solutions. Privacy concerns affect 42% of users. Todoist users report spam they cannot unsubscribe from.",
+      "opportunity": "Offer data export in standard formats (JSON, CSV, todo.txt compatible). Be transparent about data practices. Consider optional self-hosting or local-first storage. This differentiates from closed-ecosystem competitors.",
+      "sourceUrls": [
+        "https://vikunja.io/",
+        "https://super-productivity.com/blog/open-source-productivity-apps-comparison/",
+        "https://appflowy.com/blog/Vendor-Lock-In-Risk-Mitigation-with-Open-Source-Tools"
+      ]
+    },
+    {
+      "gap": "Reflection and journaling integrated with task completion",
+      "evidence": "Users request 'a journal section where I can write paragraphs' to reflect on their work day. No major todo app integrates daily reflection or review. TickTick has statistics but no qualitative reflection. The GTD methodology emphasizes weekly review but no app facilitates it well.",
+      "opportunity": "Add optional daily/weekly reflection prompts. Let users journal about completed tasks. Track not just what was done but how the day felt. This adds emotional value beyond task checking and increases engagement/retention.",
+      "sourceUrls": [
+        "https://francescod.medium.com/best-to-do-list-apps-for-2025-f5d56d1ac380",
+        "https://ones.com/blog/best-task-list-app-reddit-productivity-boost/"
+      ]
+    },
+    {
+      "gap": "Lightweight collaboration without becoming a project management tool",
+      "evidence": "Things 3 has zero collaboration. Google Tasks cannot share tasks. But Todoist/Asana/ClickUp push users toward full project management. There is a gap for simple shared lists (groceries, household chores, trip planning) without project management overhead.",
+      "opportunity": "Enable simple list sharing (via link or invite) with real-time sync. Keep it lightweight: shared lists, not shared workspaces. No admin roles, no boards, no Gantt charts. Just 'share this list with my partner' simplicity.",
+      "sourceUrls": [
+        "https://thedigitalprojectmanager.com/tools/things-3-review/",
+        "https://thedigitalprojectmanager.com/tools/google-tasks-review/",
+        "https://akiflow.com/blog/google-tasks-vs-any-do"
+      ]
+    }
+  ],
+  "positioning": {
+    "differentiators": [
+      "Generous free tier that includes reminders, calendar view, and reasonable limits (unlike Todoist/TickTick)",
+      "Web-first, cross-platform with no ecosystem lock-in (unlike Things 3, MS To Do, Google Tasks)",
+      "Fast and minimal by default with progressive disclosure of features (unlike TickTick's feature bloat)",
+      "Beautiful design that rivals Things 3 but accessible on every platform",
+      "Transparent, affordable pricing with optional lifetime deal",
+      "Data portability - easy export, no vendor lock-in",
+      "Graceful overdue task handling instead of guilt-inducing overdue counts"
+    ],
+    "targetSegment": "Individual professionals and small households who want a beautiful, fast, cross-platform todo app that respects their intelligence and their wallet. People who have tried Todoist/TickTick and found them too complex or too expensive, or tried Google Tasks/MS To Do and found them too basic.",
+    "valueProposition": "A fast, beautiful todo app that gives you everything you need for free and never makes you feel guilty about overdue tasks. Cross-platform, no lock-in, no bloat.",
+    "antiPositioning": [
+      "NOT a project management tool (no Gantt charts, sprint boards, or resource allocation)",
+      "NOT an enterprise collaboration platform (no admin dashboards or compliance features)",
+      "NOT a Notion competitor (no databases, wikis, or knowledge management)",
+      "NOT trying to replace your calendar app (complements it, does not replace it)"
+    ]
+  }
+}

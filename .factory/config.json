@@ -1,0 +1,68 @@
+{
+  "factory": {
+    "maxIterations": 50,
+    "completionPromise": "FACTORY COMPLETE",
+    "maxFixCyclesPerPhase": 3,
+    "stuckThreshold": 3
+  },
+  "research": {
+    "maxSearches": 40,
+    "maxFetches": 35,
+    "minCompetitors": 3,
+    "minComplaints": 5,
+    "sentimentSources": ["reddit", "hn", "g2", "producthunt"]
+  },
+  "specWriter": {
+    "maxMVPFeatures": 15,
+    "generateDataModel": true,
+    "generateAPIDesign": true
+  },
+  "testing": {
+    "unitFramework": "vitest",
+    "e2eFramework": "playwright",
+    "coverageTarget": 80,
+    "flakyTestRetries": 2,
+    "screenshotOnFailure": true
+  },
+  "devcontainer": {
+    "enabled": true,
+    "stackTemplate": "nextjs-prisma-postgres"
+  },
+  "defaults": {
+    "framework": "nextjs",
+    "database": "postgres",
+    "orm": "prisma",
+    "styling": "tailwind",
+    "components": "shadcn"
+  },
+  "github": {
+    "enabled": true,
+    "org": "",
+    "defaultVisibility": "private",
+    "createIssues": true
+  },
+  "agents": {
+    "maxRetries": 3
+  },
+  "workflow": {
+    "pauseForQuestions": true,
+    "requirePlanApproval": true,
+    "requireEnvSetup": true,
+    "runBuildAfterEachIssue": true,
+    "stopOnBuildFailure": true
+  },
+  "qualityGate": {
+    "commands": ["build", "typecheck", "lint"],
+    "smokeTestEndpoints": ["/", "/login", "/api/health"],
+    "failOnError": true,
+    "dependencyAudit": true,
+    "serverClientBoundaryCheck": true
+  },
+  "autonomy": {
+    "autoFixOnSameError": true,
+    "feedbackLoopEnabled": true,
+    "adaptiveRetry": true,
+    "maxSameErrorRetries": 2,
+    "rootCauseAnalysis": true
+  }
+}
