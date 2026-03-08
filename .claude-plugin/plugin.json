@@ -2,40 +2,11 @@
   "name": "software-factory",
   "version": "1.0.0",
   "description": "Autonomous SaaS builder — from market research to working, tested code with minimal human intervention",
-  "author": "Claude Code",
-  "agents": {
-    "market-researcher": "./agents/market-researcher.md",
-    "spec-writer": "./agents/spec-writer.md",
-    "architect": "./agents/architect.md",
-    "fullstack-dev": "./agents/fullstack-dev.md",
-    "test-writer": "./agents/test-writer.md",
-    "qa-validator": "./agents/qa-validator.md",
-    "code-reviewer": "./agents/code-reviewer.md",
-    "code-simplifier": "./agents/code-simplifier.md",
-    "quality-gate": "./agents/quality-gate.md",
-    "security-auditor": "./agents/security-auditor.md",
-    "devcontainer-builder": "./agents/devcontainer-builder.md",
-    "factory-orchestrator": "./agents/factory-orchestrator.md",
-    "github-orchestrator": "./agents/github-orchestrator.md",
-    "devops-agent": "./agents/devops-agent.md"
+  "author": {
+    "name": "Andrew",
+    "email": ""
   },
-  "commands": {
-    "factory:new": "./commands/factory-new.md",
-    "factory:build": "./commands/factory-build.md",
-    "factory:status": "./commands/factory-status.md",
-    "factory:pause": "./commands/factory-pause.md",
-    "factory:resume": "./commands/factory-resume.md"
-  },
-  "templates": {
-    "factory-state": "./templates/factory-state.md",
-    "ralph-prompt": "./templates/ralph-prompt.md",
-    "product-spec": "./templates/product-spec.md",
-    "devcontainer": "./templates/devcontainer/"
-  },
-  "config": {
-    "configFile": "./config.json",
-    "contextFile": "./project-context.md",
-    "maxRetries": 3,
-    "parallelAgents": true
-  }
+  "homepage": "https://github.com/awittmannTech/claude-workshop",
+  "repository": "https://github.com/awittmannTech/claude-workshop",
+  "keywords": ["factory", "saas", "autonomous", "agents", "ralph-loop"]
 }
